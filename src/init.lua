@@ -8,9 +8,10 @@ end
 
 roexpress.__index = function(object,index)
     -- Get Router Object or return Express Methoud
-    local router = requre(script.router)
+    local router = require(script.router)
     if index:lower() == 'router' then
-        return requre(script.router)
+		return require(script.router)
+	else
         return roexpressMethods[index]
     end
 end
