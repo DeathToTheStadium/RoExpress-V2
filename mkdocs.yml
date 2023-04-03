@@ -1,7 +1,7 @@
-site_name: cacheStore
-site_url: https://github.com/DeathToTheStadium/cacheStore
-repo_name: roexpress
-repo_url: https://github.com/DeathToTheStadium/cacheStore
+site_name: RoExpress-V2
+site_url: https://deathtothestadium.github.io/RoExpress-V2/
+repo_name: RoExpress-V2
+repo_url: https://deathtothestadium.github.io/RoExpress-V2/
 
 theme:
   name: material
