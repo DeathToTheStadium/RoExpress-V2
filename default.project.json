@@ -1,0 +1,12 @@
+{
+  "name": "RoExpress-V2",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "RoExpressV1.2": {
+        "$path": "src"
+      }
+    }
+  }
+} 
